@@ -15,6 +15,7 @@ import id.sch.smktelkom_mlg.learn.recyclerview2.model.Hotel;
 
 public class MainActivity extends AppCompatActivity {
 
+
     ArrayList<Hotel> mlist = new ArrayList<>();
     HotelAdapter madapter;
 
